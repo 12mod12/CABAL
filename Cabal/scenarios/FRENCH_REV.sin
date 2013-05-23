@@ -1,0 +1,656 @@
+scenario:::French Revolution
+location:::Paris, France
+time:::1789-1799 C.E.
+moneyName:::Francs
+turnLength:::86400
+maxTurns:::200
+***
+Pistols:::Knowledge of maintenance, preparation,and operation of handheld firearms.
+Muskets:::Knowledge of maintenance, preparation,and operation of larger firearms.
+Sabers:::Knowledge of maintenance, preparation, and use of sabers and other one handed and two handed blades.
+Brawling:::Capability of handling an opponent during an improvised, hand to hand combat.
+Equestrianism:::Skill with caring for and riding horses and other such animals.
+Daggers:::Knowledge of maintenance, preparation, and use of daggers and other small, concealable blades.
+Acrobatics:::Physical capacity and skill at climbing, jumping, and other physical extensions and exertions.
+Running:::Physical skill and conditioning for running quickly for extended periods of time.
+Swimming:::Physical skill and condition for extended periods of swimming.
+Public Speaking:::Capacity to speak to and maintain the attention of crowds larger than five or so people.
+Conversation:::Capacity to speak to and maintain the attention of groups typically smaller than five or so people.
+Research:::Ability to track down and investigate new information related to a topic at hand.
+Writing:::Skill and talent at writing anything from speeches to poetry.
+Larceny:::Possessing talent for lock picking, pick pocketing, and other such sleights of hand.
+Sneaking:::Possessing the physical conditioning,skill, and situation awareness to avoid detection.
+Music:::Skill with composing and performing music by voice or instrument.
+Acting:::Talent at creating wardrobes and disguises as well as adopting alternate personalities, geared toward public performance.
+Cooking:::Capability in the kitchen to prepare food in a healthy manner (and thus know what is unhealthy)
+Blacksmithing:::Skill at working with metal work and crafting.
+Weaponsmithing:::Skill at assembling and designing complex weapons.
+Bureaucracy:::Intricate knowledge, inside and out, of paperwork, procedure, and all other institutions that slow things down.
+Chemistry:::Knowledge of elements, minerals, and their interactions.
+Mathematics:::Knowledge of calculus,physics, finances, and their applications.
+Theology:::Knowledge of the divine canon, it's debates, and scripture.
+Medicine:::Applied knowledge of medicines,balms, and anatomy with the aim of healing wounded people.
+Street Smarts:::Practical knowledge of the ebb and flow of the streets of the city.
+Light Armor:::Skill at wearing and utilizing light armor to its fullest.
+Heavy Armor:::Skill at wearing and utilizing heavy armor to its fullest.
+***
+Alain
+Alexandre
+Alexis
+Alfred
+Alphonse
+Amaury
+Andre
+Antoine
+Anton
+Arnaud
+Arthur
+Augustin
+Bejamin
+Benoit
+Bernard
+Bertrand
+Bruno
+Charles
+Christian
+Christophe
+Daniel
+David
+Denis
+Didier
+Edouard
+Emile
+Emmanuel
+Eric
+Etinne
+Eugene
+Francoi
+Franck
+Frederic
+Gabriel
+Gaston
+Georges
+Gerard
+Gilbert
+Gilles
+Gregoire
+Gustave
+Hamilton
+Henri
+Honore
+Hugues
+Isaac
+Jacques
+Jean
+Jerome
+Joseph
+Jules
+Julien
+Kevin
+Laurent
+Leon
+Louis
+Luc
+Lucas
+Marc
+Marcel
+Martin
+Matthieu
+Maurice
+Michel
+Nicolas
+Noel
+Olivier
+Pascal
+Patrick
+Paul
+Philippe
+Pierre
+Raymond
+Remy
+Rene
+Richard
+Robert
+Roger
+Roland
+Sebastien
+Serge
+Stephane
+Theodore
+Thierry
+Thomas
+Timothee
+Tristan
+Victor
+Vincent
+Xavier
+Yves
+Zacharie
+***
+Adle
+Adrienne
+Agathe
+Agnes
+Aimee
+Alix
+Alice
+Amelie
+Anais
+Anastasie
+Andree
+Anne
+Anouk
+Antoinette
+Arnaude
+Astrid
+Audrey
+Aurelie
+Aurore
+Bernadette
+Brigitte
+Capucine
+Caroline
+Catherine
+Cecile
+Celiene
+Chantal
+Charlotte
+Christelle
+Christiane
+Christine
+Claire
+Claudine
+Clemence
+Colette
+Constance
+Corinne
+Danielle
+Denise
+Diane
+Dorothee
+Edith
+Eleonore
+Elisabeth
+Elise
+Elodie
+Emilie
+Emmanuelle
+Francoise
+Frederique
+Gabrielle
+Genevieve
+Helene
+Henriette
+Hortense
+Ines
+Isabelle
+Jacqueline
+Jeanne
+Jeannine
+Josephine
+Josette
+Julie
+Juliette
+Laetitia
+Laure
+Laurence
+Lorraine
+Louise
+Lucie
+Madeleine
+Manon
+Marcelle
+Margaux
+Marguerite
+Marianne
+Marie
+Marine
+Marthe
+Martine
+Maryse
+Mathilde
+Michele
+Monique
+Nathalie
+Nicole
+Noemi
+Oceane
+Odette
+Olivie
+Patricia
+Paulette
+Pauline
+Penelope
+Philipine
+Renee
+Sabine
+Simone
+Sophie
+Stephanie
+Susanne
+Sylivie
+Therese
+Valentine
+Valerie
+Veronique
+Victoire
+Virginie
+Zoe
+***
+Abbadie
+Aigle
+Allaire
+Anouilh
+Appell
+Arceneaux
+Arras
+Auch
+Auger
+Aveline
+Bachelet
+Bachellier
+Bachelot
+Bacque
+Badeaux
+Baillairgé
+Baillieu
+Bain
+Ballesdens
+Barbeau
+Barnier
+Barrande
+Barthet
+Batteux
+Baudelaire
+Baugé
+Baume
+Baumé
+Bazalgette
+Beauchamp
+Beaudouin
+Beaugendre
+Beaulieu
+Beaulne
+Beaumanoir
+Beaumont
+Beauregard
+Beauvau
+Beauvilliers
+Beaux
+Bélanger
+Bellegarde
+Belyea
+Benett
+Berengar
+Berlioz
+Bernier
+Berthelot
+Bertillon
+Bérubé
+Besnard
+Bessette
+Besson
+Bethune
+Bettencourt
+Bissonnette
+Bittencourt
+Blanc
+Blanchet
+Blondeau
+Bocuse
+Boffrand
+Boissieu
+Boissonade
+Bonaparte
+Bonnel
+Bonnot
+Bouchard
+Boucher
+Boudier
+Boudreaux
+Bougie
+Bouhier
+Boulanger
+Boulet
+Bourbeau
+Bourgeois
+Bourque
+Bousquet
+Bouthillier
+Boutin
+Boutroux
+Brasseur
+Brazeau
+Brazier
+Brian
+Brosseau
+Brousseau
+Brugière
+Bruguière
+Bruneau
+Brunet
+Bureau
+Cahun
+Caillat
+Calvet
+Candeveau
+Carpentier
+Carrel
+Carrell
+Cazenave
+Celice
+Cerf
+Chagnon
+Chaney
+Chapelle
+Chappuis
+Chapuis
+Charpentier
+Chaufourier
+Chauve
+Chevotet
+Choffard
+Clérisseau
+Coquelin
+Corbeau
+Corne
+Corneille
+Coron
+Cortot
+Côté
+Coulomb
+Courant
+Courbet
+Couvreur
+D'Arras
+De Verley
+Degeneres
+Delaplace
+Delon
+Delsarte
+Derocles
+Descartes
+Descombes
+Desjardins
+Desmarais
+Dimont
+Dior
+Doisneau
+Droz
+Du Toit
+Duclos
+Dufriche
+Dujardin
+Dumont
+Dupont
+Dutoit
+Duval
+Duverger
+Escoffier
+Fabre
+Figuier
+Frère
+Fresnel
+Féret
+Fétique
+Gagnon
+Gainsbourg
+Galopin
+Gaudreau
+Gavreau
+Gérald
+Giraud
+Girault
+Gounelle
+Grandis
+Gribelin
+Guerard
+Hachette
+Halphen
+Hector
+Hémery
+Jacquet
+Kleber
+Lacan
+Lalande
+Lambert
+Landry
+LaRue
+Le Sueur
+Leavitt
+LeBeau
+Leblanc
+Leclair
+Lecocq
+Lefebvre
+Lefrançois
+Leiris
+Leroux
+Levasseur
+Levett
+Longchamp
+Longchamps
+Lortie
+Luce
+Lucy
+Macon
+Manet
+Marchand
+Marchant
+Martin
+Masson
+Matthieu
+Maurice
+Mauss
+Ménétries
+Messier
+Moineau
+Moitessier
+Monet
+Morel
+Morin
+Mossé
+Née
+Neri
+Neuville
+Parmentier
+Pascal
+Pasquier
+Passereau
+Pélissier
+Pernet
+Philidor
+Piaf
+Piaget
+Pinchon
+Pivert
+Plantier
+Ponce
+Popelin
+Poulin
+Poullain
+Poussin
+Pretre
+Pueyrredón
+Quint
+Rapace
+Renoir
+Riqueti
+Robillard
+Rochette
+Rossignol
+Rouen
+Sardou
+Schaeffer
+Sharpe
+Silvestre
+Souchon
+Souris
+Soyer
+Stuart
+Suchet
+Thiers
+Tremblay
+Trouessart
+Trudeau
+Vaillancourt
+Vallotton
+Vallée
+Vannier
+Vasseur
+Veil
+Vidal
+Villeneuve
+Watteau
+***
+The French Public~~~100~~~NEOPHYTE~~~15
+French Aristocracy~~~100~~~NEOPHYTE~~~15
+***
+City~~~Paris~~~0~~~0~~~Paris, the City of Light!
+{
+  District~~~Arrondissement I~~~0~~~2~~~The northwesternmost Arrondissement.
+  {
+    Quartiers~~~Champs-Elysees~~~0~~~0~~~The quarter that contains the famous French avenue, Champs-Elysees.
+    {
+      Road~~~Avenue des Champs-Elysees~~~0~~~0~~~The most fashionable road in the city.
+      {
+        Stage~~~Shop~~~Book Shop~~~0~~~0~~~A shop containing many books.
+        Stage~~~Square~~~Champs-Elysees Square~~~0~~~0~~~The large square in the middle of the avenue.~~~French Aristocracy:::50,,,The French Public:::50
+      }
+      Stage~~~Bosquet~~~Fancy Bosquet~~~0~~~1~~~A formal garden just off the road.
+      Stage~~~Palace~~~Elysee Palace~~~0~~~2~~~The former home of the fled Duchess of Bourbon, now a gambling house.
+    }
+    Quartiers~~~Faubourg du Roule~~~0~~~1~~~The administrative district of Paris.
+    {
+      Stage~~~Courthouse~~~Court Houses~~~0~~~0~~~A series of court houses.
+      Building~~~Administrative buildings~~~0~~~0~~~Many buildings where the city's administration work.
+      {
+        Stage~~~Building~~~The Gentleman's Club~~~0~~~0~~~The Aristocracy's headquarters. Only the most prestigous are allowed inside.~~~French Aristocracy:::100
+      }
+    }
+    Quartiers~~~Tuileries~~~1~~~0~~~A quarter in Arrondissement1
+    {
+      Stage~~~Bank~~~Seine North Banks~~~0~~~0~~~Some docks on the north of the Seine.
+      Stage~~~Markert~~~Tuileries North Market~~~0~~~0~~~A provincial market.
+      Stage~~~Neighborhood~~~Aristocratic neighborhood~~~0~~~0~~~A spacious neighborhood where many rich aristocrats live.
+      Stage~~~Bosquet~~~Jardin des Tuileries~~~0~~~0~~~The Tuileries Garden is a large public garden where many gather to relax.
+    }
+    Quartiers~~~Place-Vendome~~~1~~~1~~~A quarter in Arrondissement1
+    {
+      Stage~~~Bank~~~First Bank of Paris~~~0~~~0~~~An upscale bank near the square.
+      Stage~~~Bosquet~~~Private Bosquet~~~0~~~0~~~A flower garden behind the bank.
+    }   
+  }
+  District~~~Arrondissement II~~~1~~~2~~~The home of the royal palace.
+  District~~~Arrondissement III~~~2~~~2~~~One of the centralmost districts of the city.
+  District~~~Arrondissement IV~~~2~~~1~~~The location of the famous Louvre.
+  District~~~Arrondissement V~~~3~~~2~~~The northernmost Arrondissement.
+  District~~~Arrondissement VI~~~4~~~2~~~Home of the ancient Roman thouroughfare, La Rue Saint-Martin. 
+  District~~~Arrondissement VII~~~3~~~1~~~Another central district of Paris.
+  District~~~Arrondissement VIII~~~5~~~1~~~The easternmost Arrondissement.
+  {
+    Quartiers~~~Marais~~~0~~~0~~~A large neighborhood located near the heart of Paris.
+    {
+      Neighborhood~~~Marais East neighborhood~~~0~~~0~~~The east neighborhood.
+      {
+        Stage~~~Park~~~Marais East park~~~0~~~0~~~A large, open park.~~~French Aristocracy:::50,,,The French Public:::50
+        Stage~~~House~~~Marais East Houses~~~0~~~0~~~A grouping of houses.
+      }
+      Neighborhood~~~Marais West neighborhood~~~0~~~0~~~The west neighborhood.
+      {
+        Stage~~~Apartment~~~Marais Apartments~~~0~~~0~~~A series of cramped apartments.
+        Stage~~~Shop~~~Marais Shops~~~0~~~0~~~A street of shops.
+        Stage~~~Fountain~~~Marais Fountain square~~~0~~~0~~~A small square with a large fountain in the middle.
+      }
+    }
+    Quartiers~~~Quinze-Vingt~~~0~~~0~~~A quarter holding the famed Hospital des Quinze-Vingt.
+    {
+      Neighborhood~~~Quinze-Vingt Hospital Neighborhood~~~0~~~0~~~The area near the hospital.
+      {
+        Stage~~~Hospital~~~Hospital des Quinze-Vingt~~~0~~~0~~~A massisive hospitial to care for the sick.
+        Stage~~~Square~~~Quinze-Vingt Square~~~0~~~0~~~A squared located near the hospital.
+      }
+      Stage~~~Neighborhood~~~Quinze-Vingt neighborhood~~~0~~~0~~~A small, quiet neighborhood.
+    }
+    Quartiers~~~Saint-Antoine~~~0~~~0~~~One of the oldest suburbs of Paris.
+    {
+      Neighborhood~~~Old Saint-Antoine neighborhood~~~0~~~0~~~An old neighborhood where many common families have lived for generations.
+      {
+        Stage~~~House~~~Bastille~~~0~~~0~~~The safe house for the leaders of the French Public.~~~The French Public:::100
+        Stage~~~Neighborhood~~~Saint-Antoine Neighborhood~~~0~~~0~~~A neighborhood filled with families.
+      }
+      Stage~~~School~~~Saint-Antoine Artisan school~~~0~~~0~~~An old school where young individuals go to learn Artisan crafts.
+      Stage~~~Market~~~Saint-Antoine Marketplace~~~0~~~0~~~A small open-stall marketplace. Most craftsmen seen around here are selling food and household goods.  
+      Stage~~~Bar~~~Le Coq Rouge (The Red Rooster)~~~0~~~0~~~A bar domained by the locals. Grumblings about the rich are heard often.
+    }
+    Quartiers~~~Popincourt~~~0~~~0~~~A quarter with the containing the Popincourt Street.
+    {
+      Neighborhood~~~Popincourt North side~~~0~~~0~~~The north side of Popincourt.
+      {
+        Stage~~~Market~~~Popincourt North Marketplace~~~0~~~0~~~A large open-stall marketplace. Many different craftsmen can be heard preaching their wares.
+        Stage~~~Square~~~Popincourt North Square~~~0~~~0~~~A square near the library.
+        Stage~~~Library~~~Old Popincourt Library~~~0~~~0~~~An ancient library holding thousands of books.  
+      }
+      NeighborHood~~~Popincourt South side~~~0~~~0~~~The south side of Popincourt.
+      {
+        Stage~~~Road~~~Impasse of the Three Sisters~~~0~~~0~~~A street named after a former public lavatory. Many citizens avoid it at night.
+        Stage~~~Square~~~Popincourt South Square~~~0~~~0~~~A square with several streets attached.
+        Stage~~~Apartment~~~Popincourt Ethic Apartments~~~0~~~0~~~A fairly sized apartment complex housing many foreigners.
+      }
+    }
+  }
+  District~~~Arrondissement IX~~~4~~~1~~~The Arrondissement containg the city arsenal.
+  District~~~Arrondissement X~~~1~~~0~~~The southwesternmost Arrondissement.
+  District~~~Arrondissement XI~~~3~~~0~~~Home for the Palace of Justice.
+  District~~~Arrondissement XII~~~5~~~0~~~The location of the famous Notre-Dame.
+}
+***
+The French Public:::Bastille
+French Aristocracy:::The Gentleman's Club
+***
+Black Powder Pistol~~~Pistols:::10,,,Brawling:::2
+Black Powder Musket~~~Muskets:::15,,,Brawling:::5,,,Sneaking:::-5
+Rapier~~~Sabers:::10,,,Sneaking:::-5
+The French Crown~~~0~~~The Royal French Crown. Inlaid with gold and jewels, this piece of headgear stands out in a crowd. Anyone wearing this immediately gathers the attention of all present.~~~Public Speaking:::50,,,Conversation:::25,,,Acting:::25,,,Sneaking:::-100
+***
+Recruit At Bosquet~~~Go to the local flower garden and recruit some fresh blood.~~~NEOPHYTE
+{
+	Conversation~~~50
+	RECRUIT~~~1
+}
+{
+	Conversation~~~50
+	DEC_MENTAL_HEALTH~~~10
+}
+Fancy Bosquet,,,Private Bosquet,,,Jardin des Tuileries
+Pickpocket Aristocrat~~~Relieve one of the upper class of their "hard inherited" coin.~~~NEOPHYTE
+{
+	Larceny~~~50
+	INC_MONEY~~~100
+}
+{
+	Running~~~50
+	DEC_MONEY~~~50
+}
+Seine North Banks,,,First Bank of Paris,,,Tuileries North Market,,,Popincourt North Marketplace
+Roughup Gambling Hall~~~Head around to a gambling hall and rough up some patrons.~~~NEOPHYTE
+{
+	Brawling~~~50
+	ADJ_PRES~~~13
+}
+{
+	Daggers~~~50
+	DEC_PHYSICAL_HEALTH~~~25
+}
+Elysee Palace
+Bomb a Market~~~Cause some chaos and increase your infamy by planting a bomb at the local market.~~~NEOPHYTE
+{
+	Sneaking~~~50
+	INC_INFAMY~~~5	
+}
+{
+	Running~~~50
+	DEC_PHYSICAL_HEALTH~~~100
+}
+Tuileries North Market,,,Popincourt North Marketplace
+***

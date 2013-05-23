@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="labelMap" min="-2" pref="635" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="72" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="labelCurrentTurn" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="labelFactionCaption" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="18" pref="18" max="18" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="labelCurrentTurnValue" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="labelCurrentFactionNameValue" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="58" max="-2" attributes="0"/>
+                      <Component id="labelMaxTurn" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="labelMaxTurnValue" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="labelFactionCaption" min="-2" max="-2" attributes="0"/>
+                          <Component id="labelCurrentFactionNameValue" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="labelCurrentTurn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="labelCurrentTurnValue" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="labelMaxTurn" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="labelMaxTurnValue" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="labelMap" min="-2" pref="465" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="buttonActiveMission" min="-2" max="-2" attributes="1"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="170" pref="170" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="buttonStats" alignment="1" max="32767" attributes="1"/>
+                              <Component id="buttonQuit" alignment="1" pref="103" max="32767" attributes="1"/>
+                              <Component id="buttonSave" alignment="1" pref="103" max="32767" attributes="1"/>
+                              <Component id="buttonEndTurn" alignment="1" pref="103" max="32767" attributes="1"/>
+                              <Component id="buttonOptions" alignment="0" pref="103" max="32767" attributes="1"/>
+                              <Component id="buttonFaction" alignment="1" pref="103" max="32767" attributes="1"/>
+                              <Component id="buttonMap" alignment="1" pref="103" max="32767" attributes="1"/>
+                              <Component id="buttonMission" alignment="1" pref="103" max="32767" attributes="1"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="buttonMap" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                  <Component id="buttonMission" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="buttonActiveMission" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="35" max="-2" attributes="0"/>
+                  <Component id="buttonFaction" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="buttonOptions" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="buttonStats" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                  <Component id="buttonEndTurn" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="91" max="-2" attributes="0"/>
+                  <Component id="buttonSave" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="buttonQuit" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace pref="29" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JButton" name="buttonMap">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Locations"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonMapActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonMission">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Missions"/>
+            <Property name="enabled" type="boolean" value="false"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonMissionActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonFaction">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Faction"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonFactionActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonOptions">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Options"/>
+            <Property name="enabled" type="boolean" value="false"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonSave">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Save"/>
+            <Property name="enabled" type="boolean" value="false"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonQuit">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Quit"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonQuitActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonEndTurn">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="End Turn"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonEndTurnActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonActiveMission">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Active Missions"/>
+            <Property name="enabled" type="boolean" value="false"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonActiveMissionActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="buttonStats">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Game Stats"/>
+            <Property name="enabled" type="boolean" value="false"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="labelMap">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Map Field"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="labelFactionCaption">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Current Faction:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="labelCurrentFactionNameValue">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="currFacName"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="labelCurrentTurn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Current Turn:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="labelCurrentTurnValue">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="currTurn"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="labelMaxTurn">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Max Turn:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="labelMaxTurnValue">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="maxTurn"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
